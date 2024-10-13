@@ -12,4 +12,4 @@ Ce projet utilise node.js. Installer [node.js](https://nodejs.org/en)
 
 Ouvrir une console de commande dans le dossier racine puis taper `node index.js`
 
-Un fichier de sortie `output.json`` est généré au format geojson
+Un fichier de sortie `output.json` est généré au format geojson
